@@ -3,7 +3,8 @@
       { "src": "package.json", "use": "@vercel/static-build", "config": { "distDir": "dist" } }
     ],
     "scripts": {
-      "build": "chmod +x node_modules/.bin/vite && vite build"
+      "build": "chmod +x node_modules/.bin/vite && vite build",
+      "buildCommand": "chmod +x node_modules/.bin/vite && npm run build"
     }
   }
   
