@@ -6,7 +6,7 @@ import MacroTable from "./components/MacroTable";
 import DownloadCSV from "./components/DownloadCSV";
 import PieChart from "./components/PieChart";
 import Footer from "./components/Footer"; // Import Footer Component
-import logo from './assets/KCAl-bg.png';
+import logo from './assets/KCAl.png';
 // import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";  // Import your personal CSS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
