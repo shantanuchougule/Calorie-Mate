@@ -7,6 +7,5 @@ export default defineConfig({
   build: {
     outDir: "dist", // Ensure Vite is outputting to `dist`
     assetsDir: 'assets',
-  },
-  base: "./" // Ensures relative paths for assets
+  }
 });
